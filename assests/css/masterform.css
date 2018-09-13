@@ -1,0 +1,12 @@
+.tab{ display:none; }
+.tab.active{ display: block; }
+.reading-sec {display: none; }
+#information .m-error{ color: red; position: absolute; }
+.m-error{ color: red;  }
+.relative {position: relative;}
+.m-10{ margin-bottom: 10px;}
+.m-20{ margin-bottom: 20px;}
+.p-15{ padding-top: 15px;}
+.loader-text { font-weight: bold; font-size: 11px;}
+.dynfield{ margin: 10px 0; clear: left; }
+#reading li{list-style: none;}
